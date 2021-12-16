@@ -389,7 +389,8 @@ body{
 }
 
 #events{
-    padding: 98px 165px 108px 148px;
+    padding-top: 98px;
+    padding-bottom: 108px;
 }
 
 .events-title{
@@ -516,7 +517,8 @@ body{
 
 #countries{
     background: #FAFAFA;
-    padding: 82px 160px 136px 144px;
+    padding-top: 82px;
+    padding-bottom: 136px;
 }
 
 .countries-title{
@@ -572,7 +574,8 @@ body{
 }
 
 #testimonials{
-    padding: 115px 245px 98px 182px;
+    padding-top: 115px;
+    padding-bottom: 98px;
 }
 
 .testimonials-title{
@@ -647,7 +650,8 @@ body{
 
 .dream-chasing{
     background: #FAFAFA;
-    padding: 82px 150px 74px 147px;
+    padding-top: 82px;
+    padding-bottom: 74px;
 }
 
 .dream-chasing-intro{
@@ -680,7 +684,8 @@ body{
 
 .site-footer{
     background: #717CFF;
-    padding: 64px 149px 45px 144px;
+    padding: 64px;
+    padding-bottom: 45px;
 }
 
 .main-footer-div{
